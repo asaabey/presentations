@@ -1,0 +1,66 @@
+PERIOPERATIVE MEDICATION OPTIMISATION: FIVE GP DECISIONS
+Audience: Australian general practitioners. Duration: 15 minutes.
+Prepared and sources checked: 17 November 2026.
+
+DELIVERY
+Intro: 45 seconds.
+Each of five case/question pairs: 2 minutes 30 seconds (12 minutes 30 total).
+  Read the case with its animated clues: 20 seconds.
+  Advance to the question, read the options and vote: 40 seconds.
+  Reveal the explanation and discuss the practical decision: 90 seconds.
+Closing checklist: 1 minute 45 seconds.
+References: supporting material; do not read aloud.
+
+There are exactly five MCQs and 13 steps. Four options per question; correct
+positions are B, D, A, C, B. Cases are fictional educational examples.
+
+Use each case-reading slide before its voting question. The underlines identify
+evidence, without presenting the correct option. Explanations are hidden until
+the teacher reveals results. Reveal and discuss before leaving a question:
+Fimbria closes voting permanently when the teacher advances away from it.
+
+Keep the discussion to one decision per case:
+1. GLP-1: translate the anaesthetic diet/fasting plan into clear instructions.
+2. Apixaban: turn relative days into actual last-dose and restart instructions.
+3. Biologics: implement an agreed specialist plan, balancing infection and flare.
+4. SGLT2: identify a fasting-related risk that a normal glucose does not exclude.
+5. ACE inhibitor/ARB: check the indication and avoid a blanket rule.
+
+SCOPE AND CASE BOUNDARIES
+This is an elective adult noncardiac surgery lesson, not an emergency surgery
+algorithm. Reconcile the examples with the hospital's instructions. The GP's
+role is to identify gaps, coordinate the plan and make it understandable.
+
+The anticoagulation case specifies therapeutic-dose apixaban, preserved renal
+function, high bleeding risk and no neuraxial technique. Do not reuse its
+calendar for warfarin, another DOAC or a spinal/epidural. Recent thrombosis,
+mechanical valves or complex antithrombotic combinations merit specialist input.
+
+The rheumatoid arthritis case explicitly states that the treating team has
+already chosen an interruption. That avoids implying that every Australian
+patient receiving a biologic needs it withheld. The methotrexate example assumes
+normal renal function and blood counts. Other agents, especially rituximab and
+JAK inhibitors, require their own schedule; do not extrapolate adalimumab timing.
+
+The SGLT2 calendar is intentionally tied to morning empagliflozin and a Friday
+inpatient operation. If the patient uses a combination tablet, identify both
+ingredients so any alternative glycaemic plan covers the other ingredient too.
+
+For ACE inhibitor/ARB discussion, emphasise that preventing hypotension and
+improving major clinical outcomes are different claims. The answer offers a
+reasonable option for agreement with anaesthesia, not a mandatory stop order.
+
+BUILD AND IMPORT
+  python3 build.py
+  python3 export_text.py
+Requires Python 3 and jsonschema.
+
+Upload lesson.json to Fimbria. Re-import after any source changes; saved lessons
+do not automatically track this file. lesson.txt is a readable answer-key copy.
+The schema is a snapshot retrieved from the live Fimbria endpoint on the date
+above. build.py checks schema and applicable additional format rules.
+
+Animated markup is used only in slide bodies and revealed explanations.
+Prompts/options remain plain text as required by Fimbria. Preview, reduced
+motion and handouts show the final style without animation. Browser playback
+has not been tested in a live Fimbria session.

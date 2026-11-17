@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1152pt" height="648pt" viewBox="0 0 1152 648" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-16T08:57:36.426062</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 648 
+L 1152 648 
+L 1152 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 253.44 226.8 
+L 967.68 226.8 
+L 967.68 149.04 
+L 253.44 149.04 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 253.44 226.8 
+L 253.44 149.04 
+" clip-path="url(#p7527929db1)" style="fill: none; stroke: #e1e8ed; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #536779" x="253.44" y="242.397656" transform="rotate(-0 253.44 242.397656)">0%</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 423.497143 226.8 
+L 423.497143 149.04 
+" clip-path="url(#p7527929db1)" style="fill: none; stroke: #e1e8ed; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #536779" x="423.497143" y="242.397656" transform="rotate(-0 423.497143 242.397656)">25%</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 593.554286 226.8 
+L 593.554286 149.04 
+" clip-path="url(#p7527929db1)" style="fill: none; stroke: #e1e8ed; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #536779" x="593.554286" y="242.397656" transform="rotate(-0 593.554286 242.397656)">50%</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 763.611429 226.8 
+L 763.611429 149.04 
+" clip-path="url(#p7527929db1)" style="fill: none; stroke: #e1e8ed; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #536779" x="763.611429" y="242.397656" transform="rotate(-0 763.611429 242.397656)">75%</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 933.668571 226.8 
+L 933.668571 149.04 
+" clip-path="url(#p7527929db1)" style="fill: none; stroke: #e1e8ed; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #536779" x="933.668571" y="242.397656" transform="rotate(-0 933.668571 242.397656)">100%</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_11"/>
+     <g id="text_6">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #17324d" x="245.44" y="192.479062" transform="rotate(-0 245.44 192.479062)">Gabapentin</text>
+     </g>
+    </g>
+   </g>
+   <g id="LineCollection_1">
+    <path d="M 253.44 187.92 
+L 933.668571 187.92 
+" clip-path="url(#p7527929db1)" style="fill: none; stroke: #168c88; stroke-opacity: 0.2; stroke-width: 7"/>
+   </g>
+   <g id="line2d_12">
+    <defs>
+     <path id="mb03c782340" d="M 0 3.5 
+C 0.928211 3.5 1.81853 3.131218 2.474874 2.474874 
+C 3.131218 1.81853 3.5 0.928211 3.5 0 
+C 3.5 -0.928211 3.131218 -1.81853 2.474874 -2.474874 
+C 1.81853 -3.131218 0.928211 -3.5 0 -3.5 
+C -0.928211 -3.5 -1.81853 -3.131218 -2.474874 -2.474874 
+C -3.131218 -1.81853 -3.5 -0.928211 -3.5 0 
+C -3.5 0.928211 -3.131218 1.81853 -2.474874 2.474874 
+C -1.81853 3.131218 -0.928211 3.5 0 3.5 
+z
+" style="stroke: #168c88"/>
+    </defs>
+    <g clip-path="url(#p7527929db1)">
+     <use xlink:href="#mb03c782340" x="933.668571" y="187.92" style="fill: #168c88; stroke: #168c88"/>
+    </g>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #168c88" x="954.075429" y="190.647539" transform="rotate(-0 954.075429 190.647539)">≈100%</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17324d" x="253.44" y="144.04" transform="rotate(-0 253.44 144.04)">Systemically available drug</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_3">
+    <path d="M 253.44 362.88 
+L 967.68 362.88 
+L 967.68 285.12 
+L 253.44 285.12 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_6">
+     <g id="line2d_13">
+      <path d="M 253.44 362.88 
+L 253.44 285.12 
+" clip-path="url(#p82d2f19880)" style="fill: none; stroke: #e1e8ed; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14"/>
+     <g id="text_9">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #536779" x="253.44" y="378.477656" transform="rotate(-0 253.44 378.477656)">0%</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_15">
+      <path d="M 423.497143 362.88 
+L 423.497143 285.12 
+" clip-path="url(#p82d2f19880)" style="fill: none; stroke: #e1e8ed; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16"/>
+     <g id="text_10">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #536779" x="423.497143" y="378.477656" transform="rotate(-0 423.497143 378.477656)">25%</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_17">
+      <path d="M 593.554286 362.88 
+L 593.554286 285.12 
+" clip-path="url(#p82d2f19880)" style="fill: none; stroke: #e1e8ed; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_18"/>
+     <g id="text_11">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #536779" x="593.554286" y="378.477656" transform="rotate(-0 593.554286 378.477656)">50%</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_19">
+      <path d="M 763.611429 362.88 
+L 763.611429 285.12 
+" clip-path="url(#p82d2f19880)" style="fill: none; stroke: #e1e8ed; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_20"/>
+     <g id="text_12">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #536779" x="763.611429" y="378.477656" transform="rotate(-0 763.611429 378.477656)">75%</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_21">
+      <path d="M 933.668571 362.88 
+L 933.668571 285.12 
+" clip-path="url(#p82d2f19880)" style="fill: none; stroke: #e1e8ed; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_22"/>
+     <g id="text_13">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #536779" x="933.668571" y="378.477656" transform="rotate(-0 933.668571 378.477656)">100%</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_2">
+     <g id="line2d_23"/>
+     <g id="text_14">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #17324d" x="245.44" y="328.559062" transform="rotate(-0 245.44 328.559062)">Metformin</text>
+     </g>
+    </g>
+   </g>
+   <g id="LineCollection_2">
+    <path d="M 253.44 324 
+L 865.645714 324 
+" clip-path="url(#p82d2f19880)" style="fill: none; stroke: #168c88; stroke-opacity: 0.2; stroke-width: 7"/>
+   </g>
+   <g id="line2d_24">
+    <g clip-path="url(#p82d2f19880)">
+     <use xlink:href="#mb03c782340" x="865.645714" y="324" style="fill: #168c88; stroke: #168c88"/>
+    </g>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #168c88" x="886.052571" y="326.727539" transform="rotate(-0 886.052571 326.727539)">≈90%</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17324d" x="253.44" y="280.12" transform="rotate(-0 253.44 280.12)">Absorbed drug, first 24 hours</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_4">
+    <path d="M 253.44 498.96 
+L 967.68 498.96 
+L 967.68 421.2 
+L 253.44 421.2 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_5">
+    <g id="xtick_11">
+     <g id="line2d_25">
+      <path d="M 253.44 498.96 
+L 253.44 421.2 
+" clip-path="url(#p1824f32fee)" style="fill: none; stroke: #e1e8ed; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_26"/>
+     <g id="text_17">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #536779" x="253.44" y="514.557656" transform="rotate(-0 253.44 514.557656)">0%</text>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_27">
+      <path d="M 423.497143 498.96 
+L 423.497143 421.2 
+" clip-path="url(#p1824f32fee)" style="fill: none; stroke: #e1e8ed; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_28"/>
+     <g id="text_18">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #536779" x="423.497143" y="514.557656" transform="rotate(-0 423.497143 514.557656)">25%</text>
+     </g>
+    </g>
+    <g id="xtick_13">
+     <g id="line2d_29">
+      <path d="M 593.554286 498.96 
+L 593.554286 421.2 
+" clip-path="url(#p1824f32fee)" style="fill: none; stroke: #e1e8ed; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_30"/>
+     <g id="text_19">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #536779" x="593.554286" y="514.557656" transform="rotate(-0 593.554286 514.557656)">50%</text>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_31">
+      <path d="M 763.611429 498.96 
+L 763.611429 421.2 
+" clip-path="url(#p1824f32fee)" style="fill: none; stroke: #e1e8ed; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_32"/>
+     <g id="text_20">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #536779" x="763.611429" y="514.557656" transform="rotate(-0 763.611429 514.557656)">75%</text>
+     </g>
+    </g>
+    <g id="xtick_15">
+     <g id="line2d_33">
+      <path d="M 933.668571 498.96 
+L 933.668571 421.2 
+" clip-path="url(#p1824f32fee)" style="fill: none; stroke: #e1e8ed; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_34"/>
+     <g id="text_21">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #536779" x="933.668571" y="514.557656" transform="rotate(-0 933.668571 514.557656)">100%</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_6">
+    <g id="ytick_3">
+     <g id="line2d_35"/>
+     <g id="text_22">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #17324d" x="245.44" y="464.639063" transform="rotate(-0 245.44 464.639063)">Digoxin [IV]</text>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_36">
+    <path d="M 593.554286 460.08 
+L 729.6 460.08 
+" clip-path="url(#p1824f32fee)" style="fill: none; stroke: #168c88; stroke-width: 5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_37">
+    <defs>
+     <path id="m36e57fa3f2" d="M 0 6 
+L 0 -6 
+" style="stroke: #168c88"/>
+    </defs>
+    <g clip-path="url(#p1824f32fee)">
+     <use xlink:href="#m36e57fa3f2" x="593.554286" y="460.08" style="fill: #168c88; stroke: #168c88"/>
+     <use xlink:href="#m36e57fa3f2" x="729.6" y="460.08" style="fill: #168c88; stroke: #168c88"/>
+    </g>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #168c88" x="750.006857" y="462.807539" transform="rotate(-0 750.006857 462.807539)">50–70%</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17324d" x="253.44" y="416.2" transform="rotate(-0 253.44 416.2)">Intravenous dose</text>
+   </g>
+  </g>
+  <g id="text_25">
+   <text style="font-weight: 700; font-size: 26px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17324d" x="63.36" y="45.36" transform="rotate(-0 63.36 45.36)">Renal elimination: three useful comparators</text>
+  </g>
+  <g id="text_26">
+   <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536779" x="63.36" y="84.24" transform="rotate(-0 63.36 84.24)">Each panel states its denominator; these are not percentages of a common oral dose.</text>
+  </g>
+  <g id="text_27">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536779" x="253.44" y="249.48" transform="rotate(-0 253.44 249.48)">Essentially all eliminated unchanged by the kidney; route summary, not an oral recovery measurement.</text>
+  </g>
+  <g id="text_28">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536779" x="253.44" y="385.56" transform="rotate(-0 253.44 385.56)">About 90% recovered via the renal route in 24 hours; unchanged drug.</text>
+  </g>
+  <g id="text_29">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536779" x="253.44" y="521.64" transform="rotate(-0 253.44 521.64)">50–70% recovered unchanged in urine after an IV dose in healthy volunteers.</text>
+  </g>
+  <g id="text_30">
+   <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17324d" x="63.36" y="579.96" transform="rotate(-0 63.36 579.96)">Gabapentin and metformin are incompletely absorbed: do not interpret these as 100% or 90% of a swallowed dose.</text>
+  </g>
+  <g id="text_31">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536779" x="63.36" y="612.36" transform="rotate(-0 63.36 612.36)">Sources: Neurontin, Glumetza and digoxin prescribing information • Per-drug links: renal-excretion-sources.md</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p7527929db1">
+   <rect x="253.44" y="149.04" width="714.24" height="77.76"/>
+  </clipPath>
+  <clipPath id="p82d2f19880">
+   <rect x="253.44" y="285.12" width="714.24" height="77.76"/>
+  </clipPath>
+  <clipPath id="p1824f32fee">
+   <rect x="253.44" y="421.2" width="714.24" height="77.76"/>
+  </clipPath>
+ </defs>
+</svg>

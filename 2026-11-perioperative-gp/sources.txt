@@ -1,0 +1,58 @@
+SOURCE REGISTER
+Checked 17 November 2026. Reference numbers match the lesson explanations.
+Primary sources are used; Australian guidance is prioritised where available.
+
+1. ANZCA: GLP-1 receptor agonists – clinical practice recommendations and FAQs.
+https://www.anzca.edu.au/safety-and-advocacy/standards-of-practice/clinical-practice-recommendations-regarding-patients-taking-glp-1
+The current page includes a fasting clarification updated April 2026 and shows
+a last-modified date of 22 October 2026. Used for the Australian GLP-1 case;
+do not substitute the older blanket weekly-drug cessation approach.
+Companion multisociety recommendations (2025):
+https://doi.org/10.1177/0310057X251355288
+
+2. Tran HA et al. 2025 Guidelines for direct oral anticoagulants: a practical
+guidance on the prescription, laboratory testing, peri-operative and bleeding
+management. Internal Medicine Journal 2025;55:1174–1183.
+https://doi.org/10.1111/imj.70103
+Locate: Practical summary for perioperative interruption; perioperative
+bridging; neuraxial anaesthesia; resumption after surgery.
+Used for the apixaban calendar and postoperative distinction between
+therapeutic anticoagulation and thromboprophylaxis.
+
+3. Buchbinder R et al. Australian recommendations on perioperative use of
+disease-modifying anti-rheumatic drugs in people with inflammatory arthritis
+undergoing elective surgery. Internal Medicine Journal 2023;53:1248–1255.
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10946831/
+https://doi.org/10.1111/imj.16073
+Locate: Recommendations and practical considerations. Used to explain why
+the biologic case starts with a shared decision rather than a universal hold.
+
+4. Goodman SM et al. 2022 ACR/AAHKS guideline for perioperative management of
+antirheumatic medication in patients undergoing elective total hip or knee
+arthroplasty. Arthritis & Rheumatology 2022;74:1464–1473.
+https://doi.org/10.1002/art.42140
+Locate: Tables 2–3. Used for the joint-replacement example, adalimumab interval,
+methotrexate continuation and wound-based restart. Its scope is hip/knee
+arthroplasty; the recommendations are conditional.
+
+5. Australian Diabetes Society and ANZCA. Perioperative Diabetes and
+Hyperglycaemia Guidelines (Adults), November 2022.
+https://www.diabetessociety.com.au/wp-content/uploads/2023/03/ADS-ANZCA-Perioperative-Diabetes-and-Hyperglycaemia-Guidelines-Adults-November-2022-v2-Final.pdf
+Locate: Section 6.1.2; Appendix L, ADS–ANZCA–ADEA–NZSSD SGLT2 alert.
+Used for the Australian inpatient-surgery example and metabolic safety advice.
+The case uses a calendar, since 'three days' can otherwise be misunderstood.
+
+6. AHA/ACC and partner societies. 2026 Guideline for Perioperative
+Cardiovascular Management for Noncardiac Surgery, reaffirmed September 2026.
+https://www.jacc.org/doi/full/10.1016/j.jacc.2026.06.017
+Locate: Section 7.2, Renin-Angiotensin-Aldosterone System Inhibitors.
+Used for the indication-dependent ACE inhibitor/ARB discussion.
+Official reaffirmation notice:
+https://professional.heart.org/en/science-news/2026-guideline-for-perioperative-cardiovascular-management-for-noncardiac-surgery
+The notice states that the 2026 reaffirmation retains the 2024 recommendations.
+
+AUTHORING FORMAT
+https://fimbria.lattice-1.com/docs/lesson-format.md
+https://fimbria.lattice-1.com/lesson.schema.json
+Retrieved for this build. These specify the animation locations, voting/reveal
+behaviour, handout behaviour, schema and additional validation rules.

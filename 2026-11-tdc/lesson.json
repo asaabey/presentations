@@ -1,0 +1,774 @@
+{
+  "schemaVersion": 1,
+  "id": "tdc-2026-psych-pharm-kidney",
+  "title": "Psychiatric pharmacotherapy in kidney disease and transplantation",
+  "steps": [
+    {
+      "id": "intro",
+      "type": "slide",
+      "title": "Psychiatric pharmacotherapy in kidney disease and transplantation",
+      "body": "A practical, case-based session for general practice.\n\nBy the end you should be able to:\n1. Choose a reasonable first-line antidepressant in CKD stages 3–5, including dialysis\n2. Recognise psychotropics that **accumulate** in renal impairment\n3. Manage lithium safely, including during acute illness\n4. Spot important psychotropic–immunosuppressant interactions\n5. Ask: is this really a psychiatric illness?"
+    },
+    {
+      "id": "three-issues",
+      "type": "slide",
+      "title": "Three different questions for every drug",
+      "body": "1. **Clearance:** is it renally cleared? Does the dose need to change?\n2. **Accumulation:** do active drug or metabolites build up and cause toxicity?\n3. **Nephrotoxicity:** does it damage the kidney?\n\nA drug can be completely non-nephrotoxic and still cause severe encephalopathy as kidney function falls."
+    },
+    {
+      "id": "q-ad-ckd4-clues",
+      "type": "slide",
+      "title": "Read the case: key clues",
+      "body": "Margaret, 64, has type 2 diabetes and [underline]CKD stage 4 (eGFR 22)[/underline]. She has [underline]moderate depression[/underline] and would like to try medication alongside counselling."
+    },
+    {
+      "id": "q-ad-ckd4",
+      "type": "question",
+      "prompt": "Margaret, 64, has type 2 diabetes and CKD stage 4 (eGFR 22). She has moderate depression and would like to try medication alongside counselling.\n\nWhich is the most reasonable first choice?",
+      "options": [
+        {
+          "id": "desv",
+          "text": "Desvenlafaxine 100 mg daily"
+        },
+        {
+          "id": "sert",
+          "text": "Sertraline 25 mg daily, increasing to 50 mg"
+        },
+        {
+          "id": "dulox",
+          "text": "Duloxetine 60 mg daily"
+        },
+        {
+          "id": "ami",
+          "text": "Amitriptyline 25 mg at night"
+        }
+      ],
+      "correctOptionId": "sert",
+      "explanation": "**Sertraline** is [underline]hepatically metabolised[/underline], needs [underline]no formal renal dose adjustment[/underline], and has relatively low interaction potential, so it is a common first choice in advanced CKD. Start low and titrate slowly.\n\n- **Desvenlafaxine** is largely renally cleared. At CrCl <30 the dose must be reduced substantially (no more than 50 mg every second day); 100 mg daily is too much.\n- **Duloxetine** exposure rises markedly in severe renal impairment. Many guidelines advise avoiding it below CrCl 30, and 60 mg would be inappropriate here.\n- **Amitriptyline** brings anticholinergic effects, orthostatic hypotension, falls and QT prolongation, all worse in CKD."
+    },
+    {
+      "id": "ad-table",
+      "type": "slide",
+      "title": "Antidepressants in CKD: the table to keep",
+      "body": "",
+      "table": {
+        "columns": [
+          "Drug",
+          "Renal considerations",
+          "GP message"
+        ],
+        "rowHeaders": true,
+        "rows": [
+          [
+            "Sertraline",
+            "No formal renal adjustment",
+            "Often a useful first choice, including advanced CKD and dialysis"
+          ],
+          [
+            "Escitalopram",
+            "Caution at CrCl <30",
+            "Dose-related QT prolongation; check electrolytes and other QT drugs"
+          ],
+          [
+            "Fluoxetine",
+            "Little renal adjustment",
+            "Very long half-life; significant CYP interactions"
+          ],
+          [
+            "Venlafaxine",
+            "Drug and active metabolite accumulate",
+            "Reduce dose 25–50% in CKD; about 50% on dialysis"
+          ],
+          [
+            "Desvenlafaxine",
+            "Mainly renally cleared",
+            "CrCl <30 or dialysis: max 50 mg every second day"
+          ],
+          [
+            "Duloxetine",
+            "Exposure rises at CrCl <30",
+            "Generally avoid at CrCl <30; recommendations vary by formulation"
+          ],
+          [
+            "Mirtazapine",
+            "Clearance falls 30–50%",
+            "Start 7.5 mg; helps sleep and appetite; watch sedation and falls"
+          ],
+          [
+            "TCAs",
+            "Metabolites accumulate",
+            "Avoid for depression: anticholinergic, falls, QT"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "duloxetine-nuance",
+      "type": "slide",
+      "title": "A note on duloxetine",
+      "body": "- **eGFR <30 mL/min/1.73m²:** generally avoid duloxetine because exposure rises in severe renal impairment\n- For some formulations, **30 mg daily** is recommended in severe renal impairment\n\nTreat this as a formulation-specific prescribing decision, not a universal ban. If you use it, use the lowest dose and monitor closely."
+    },
+    {
+      "id": "q-ssri-na-clues",
+      "type": "slide",
+      "title": "Read the case: key clues",
+      "body": "Joan, 79, has CKD stage 3b and persistent depression despite psychological treatment. Six months ago, she was admitted with confusion and [underline]sodium 121 mmol/L[/underline] [underline]shortly after starting escitalopram while taking a thiazide[/underline]. Both medicines were stopped, and her sodium returned to normal. Her current sodium is 138 mmol/L."
+    },
+    {
+      "id": "q-ssri-na",
+      "type": "question",
+      "prompt": "Joan, 79, has CKD stage 3b and persistent depression despite psychological treatment. Six months ago, she was admitted with confusion and sodium 121 mmol/L shortly after starting escitalopram while taking a thiazide. Both medicines were stopped, and her sodium returned to normal. Her current sodium is 138 mmol/L.\n\nShe would now like to try another antidepressant. Which is the most appropriate option given her previous adverse reaction?",
+      "options": [
+        {
+          "id": "sertraline",
+          "text": "Sertraline"
+        },
+        {
+          "id": "venlafaxine",
+          "text": "Venlafaxine"
+        },
+        {
+          "id": "escitalopram",
+          "text": "Escitalopram at a lower dose"
+        },
+        {
+          "id": "mirtazapine",
+          "text": "Mirtazapine"
+        }
+      ],
+      "correctOptionId": "mirtazapine",
+      "explanation": "**Mirtazapine** is the most appropriate option here because it carries a [underline]lower, though not zero, risk of hyponatraemia[/underline] than SSRIs and SNRIs. Her [underline]previous severe episode[/underline] should influence the choice even though her sodium is now normal and the thiazide has been stopped.\n\n- **Sertraline** has favourable renal dosing, but switching to another SSRI does not remove the risk of recurrent hyponatraemia.\n- **Venlafaxine** also carries a risk of hyponatraemia and requires renal dose adjustment.\n- **Escitalopram at a lower dose** re-exposes her to the suspected causative drug; a lower dose does not reliably prevent recurrence.\n\nMirtazapine clearance is reduced in CKD: start cautiously, titrate slowly, and monitor sedation and falls. Check sodium at baseline and early after starting treatment, with repeat monitoring guided by her risk and clinical course. New confusion or unsteadiness warrants prompt assessment and a sodium check."
+    },
+    {
+      "id": "ad-hyponatraemia",
+      "type": "slide",
+      "title": "Antidepressants: hyponatraemia risk",
+      "body": "**Pooled event rates, not a ranking:** populations, follow-up and sodium thresholds varied substantially. These are not CKD-specific or annual risks; wide confidence intervals limit comparisons between individual drugs.\n\nDirect comparisons support **lower risk with mirtazapine than SSRIs**, but risk is not zero (OR 0.61; 95% CI 0.39–0.96).\n\nSource: [Gheysens T et al. European Psychiatry 2024;67:e20, Tables 3–4](https://doi.org/10.1192/j.eurpsy.2024.11). Any hyponatraemia: Na <135 mmol/L or a documented diagnosis; some studies only reported Na <130.",
+      "table": {
+        "columns": [
+          "Agent",
+          "Pooled event rate (95% CI)",
+          "Studies"
+        ],
+        "rowHeaders": true,
+        "rows": [
+          [
+            "Sertraline",
+            "4.59% (0.63–26.81%)",
+            "7"
+          ],
+          [
+            "Escitalopram",
+            "3.21% (0.33–24.86%)",
+            "6"
+          ],
+          [
+            "Fluoxetine",
+            "3.33% (1.09–9.71%)",
+            "12"
+          ],
+          [
+            "Citalopram",
+            "0.95% (0.04–20.53%)",
+            "3"
+          ],
+          [
+            "Paroxetine",
+            "5.42% (1.38–18.98%)",
+            "11"
+          ],
+          [
+            "Fluvoxamine",
+            "4.98% (3.79–6.52%)",
+            "4"
+          ],
+          [
+            "Venlafaxine",
+            "6.99% (1.05–34.61%)",
+            "8"
+          ],
+          [
+            "Desvenlafaxine",
+            "No pooled agent-specific estimate in this review",
+            "—"
+          ],
+          [
+            "Duloxetine",
+            "3.86% (0.07–71.04%)",
+            "3"
+          ],
+          [
+            "Mirtazapine",
+            "1.02% (0.25–4.02%)",
+            "8"
+          ],
+          [
+            "Amitriptyline (TCA)",
+            "2.05% (0.01–84.30%)",
+            "3"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ssri-harms",
+      "type": "slide",
+      "title": "SSRIs are not free of kidney-related problems",
+      "body": "- **Hyponatraemia:** first weeks; older age, thiazides, low body weight\n- **QT prolongation:** citalopram and escitalopram are dose-related. In dialysis patients, potassium, calcium and magnesium shifts add risk\n- **Serotonin toxicity:** watch tramadol, tapentadol, linezolid and ondansetron combinations\n- **Falls and fractures:** on top of CKD–mineral bone disease"
+    },
+    {
+      "id": "q-li-decline-clues",
+      "type": "slide",
+      "title": "Read the case: key clues",
+      "body": "Peter, 56, has bipolar I disorder and has been well on lithium for 22 years. Level 0.7 mmol/L.\n\n- [underline]eGFR has fallen from 78 to 46 over 10 years[/underline]\n- He passes about [underline]4 L of urine a day[/underline]\n- Urine ACR is normal"
+    },
+    {
+      "id": "q-li-decline",
+      "type": "question",
+      "prompt": "Peter, 56, has bipolar I disorder and has been well on lithium for 22 years. Level 0.7 mmol/L.\n\n- eGFR has fallen from 78 to 46 over 10 years\n- He passes about 4 L of urine a day\n- Urine ACR is normal\n\nWhat is the best next step?",
+      "options": [
+        {
+          "id": "joint",
+          "text": "Continue lithium for now and arrange specialist review of renal function and polyuria"
+        },
+        {
+          "id": "reduce",
+          "text": "Reduce the lithium dose and repeat renal function in three months"
+        },
+        {
+          "id": "switch",
+          "text": "Arrange a gradual switch to another mood stabiliser because eGFR is below 60"
+        },
+        {
+          "id": "routine",
+          "text": "Continue the current regimen with routine monitoring because the lithium level is therapeutic"
+        }
+      ],
+      "correctOptionId": "joint",
+      "explanation": "This is classic [underline]**lithium-associated CKD**[/underline] (chronic tubulointerstitial nephropathy) with [underline]**nephrogenic diabetes insipidus**[/underline]. Decisions need to be shared between him, his psychiatrist and nephrology.\n\n- **Reducing the dose alone** does not address the cause of the renal decline or polyuria; waiting three months delays assessment.\n- **An eGFR below 60 alone** does not mandate switching. Weigh the renal trajectory against lithium’s benefit and the risks of relapse.\n- **A therapeutic lithium level** does not exclude chronic renal adverse effects or justify routine monitoring alone.\n\nThe best window for the decision to continue or switch is early, while eGFR is still moderately preserved."
+    },
+    {
+      "id": "li-kidney",
+      "type": "slide",
+      "title": "Lithium and the kidney",
+      "body": "- **Nephrogenic DI:** common (polyuria in up to about 1 in 3). Lithium enters collecting-duct cells through ENaC and blunts the response to ADH\n- **Chronic tubulointerstitial nephropathy:** slow eGFR decline over years to decades; often bland urine and microcysts on imaging\n- **Progression to kidney failure:** uncommon, but real after long exposure\n- **Also:** hypercalcaemia (hyperparathyroidism) and hypothyroidism\n- **Acute toxicity episodes** add to long-term kidney damage"
+    },
+    {
+      "id": "li-monitor",
+      "type": "slide",
+      "title": "Monitoring and when to involve nephrology",
+      "body": "Every 3–6 months: lithium level (12 h post-dose), U&E/eGFR, calcium and TSH. Check more often in older people and those with CKD.\n\nTarget for most adults is 0.6–0.8 mmol/L; use the lower end in older people.\n\n**Involve nephrology when:**\n- eGFR is <45, or falling steadily (for example, >5 mL/min/1.73m² a year)\n- There is albuminuria or haematuria without another explanation\n- Polyuria or nocturia is troublesome, or sodium is abnormal\n- Calcium is raised"
+    },
+    {
+      "id": "li-sick-days",
+      "type": "slide",
+      "title": "Lithium during acute illness",
+      "body": "Vomiting, diarrhoea and poor fluid intake can precipitate lithium toxicity and AKI, especially with an ACE inhibitor, ARB, diuretic or NSAID.\n\n- Withhold lithium during significant dehydrating illness and arrange same-day clinical review, lithium level and renal function/electrolytes\n- Review other medicines that may need temporary withholding during dehydration\n- Coarse tremor, ataxia, slurred speech, confusion, myoclonus or seizures require emergency assessment\n- Restart lithium with a clinician-agreed plan once hydration and renal function are satisfactory; recheck levels as advised"
+    },
+    {
+      "id": "li-interactions",
+      "type": "slide",
+      "title": "Drugs that move lithium levels",
+      "body": "Recheck the lithium level about 5–7 days after starting, stopping or changing any of these.",
+      "table": {
+        "columns": [
+          "Drug",
+          "Effect on lithium",
+          "Action"
+        ],
+        "rowHeaders": true,
+        "rows": [
+          [
+            "Thiazide diuretics",
+            "↑ about 25–40%",
+            "Avoid if possible; reduce dose and monitor if needed"
+          ],
+          [
+            "ACE inhibitors / ARBs",
+            "↑ (variable)",
+            "Often indicated in CKD: start, then recheck the level"
+          ],
+          [
+            "NSAIDs (incl. COX-2)",
+            "↑",
+            "Avoid; warn about over-the-counter use"
+          ],
+          [
+            "Loop diuretics",
+            "↑ (smaller effect)",
+            "Monitor"
+          ],
+          [
+            "SGLT2 inhibitors",
+            "↓ (increased excretion)",
+            "Monitor for loss of effect"
+          ],
+          [
+            "Amlodipine",
+            "Minimal",
+            "Reasonable antihypertensive choice"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "q-valproate-free-clues",
+      "type": "slide",
+      "title": "Read the case: key clues",
+      "body": "Ravi, 62, takes valproate for bipolar disorder. He has CKD stage 5 and [underline]albumin 25 g/L[/underline]. He develops new drowsiness and tremor. His [underline]total valproate concentration is within the laboratory therapeutic range[/underline]."
+    },
+    {
+      "id": "q-valproate-free",
+      "type": "question",
+      "prompt": "Ravi, 62, takes valproate for bipolar disorder. He has CKD stage 5 and albumin 25 g/L. He develops new drowsiness and tremor. His total valproate concentration is within the laboratory therapeutic range.\n\nWhich is the best interpretation?",
+      "options": [
+        {
+          "id": "exclude",
+          "text": "The total level excludes valproate toxicity"
+        },
+        {
+          "id": "increase",
+          "text": "Low albumin means the dose should be increased"
+        },
+        {
+          "id": "free",
+          "text": "A normal total level does not exclude toxicity: the free valproate fraction may be increased"
+        },
+        {
+          "id": "renal",
+          "text": "Valproate is eliminated entirely unchanged by the kidneys"
+        }
+      ],
+      "correctOptionId": "free",
+      "explanation": "Renal failure and low albumin [underline]reduce valproate protein binding[/underline]. The pharmacologically active [underline]free fraction may rise[/underline] even when the total concentration appears therapeutic.\n\nAssess urgently for medication toxicity and other causes of altered consciousness. Discuss a free valproate concentration where available; check ammonia when valproate-associated encephalopathy is suspected. Do not increase the dose simply to chase a total concentration.\n\n\nReference: [Valproate: renal disease and protein binding](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4b619f73-44e5-4a99-b425-a96cb2228c87)."
+    },
+    {
+      "id": "gaba-dosing",
+      "type": "slide",
+      "title": "Gabapentinoid dosing by kidney function",
+      "body": "Recommended total daily dose ranges. Always check the dose against CrCl.",
+      "table": {
+        "columns": [
+          "CrCl (mL/min)",
+          "Pregabalin",
+          "Gabapentin"
+        ],
+        "rowHeaders": true,
+        "rows": [
+          [
+            "≥60",
+            "150–600 mg",
+            "900–3600 mg"
+          ],
+          [
+            "30–59",
+            "75–300 mg",
+            "400–1400 mg"
+          ],
+          [
+            "15–29",
+            "25–150 mg",
+            "200–700 mg"
+          ],
+          [
+            "<15",
+            "25–75 mg",
+            "100–300 mg"
+          ],
+          [
+            "Haemodialysis",
+            "Plus 25–150 mg after each session",
+            "Plus 125–350 mg after each session"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "q-antipsych-clues",
+      "type": "slide",
+      "title": "Read the case: key clues",
+      "body": "Daniel, 48, has schizophrenia and CKD stage 4 ([underline]CrCl 25 mL/min[/underline]). At a routine GP appointment, you review a letter from his psychiatrist recommending a [underline]new oral antipsychotic[/underline]."
+    },
+    {
+      "id": "q-antipsych",
+      "type": "question",
+      "prompt": "Daniel, 48, has schizophrenia and CKD stage 4 (CrCl 25 mL/min). At a routine GP appointment, you review a letter from his psychiatrist recommending a new oral antipsychotic.\n\nWhich of the following would most concern you about accumulation in renal impairment and prompt you to check the prescribed dose?",
+      "options": [
+        {
+          "id": "olanz",
+          "text": "Olanzapine"
+        },
+        {
+          "id": "pali",
+          "text": "Paliperidone"
+        },
+        {
+          "id": "quet",
+          "text": "Quetiapine"
+        },
+        {
+          "id": "halo",
+          "text": "Haloperidol"
+        }
+      ],
+      "correctOptionId": "pali",
+      "explanation": "**Paliperidone** (the active metabolite of risperidone) is [underline]largely excreted unchanged by the kidney[/underline]. At CrCl 10–50 the [underline]oral dose is reduced[/underline] to 1.5 mg daily, and it is not recommended below CrCl 10. Long-acting injectable doses also need adjustment.\n\n**Risperidone** needs a similar caution: reduce the dose by about 50%.\n\n**Olanzapine, quetiapine and haloperidol** are hepatically metabolised and usually need no renal adjustment. Their problems in CKD are sedation, orthostasis, metabolic effects and QT prolongation."
+    },
+    {
+      "id": "sedatives",
+      "type": "slide",
+      "title": "Antipsychotics and sedatives in CKD",
+      "body": "",
+      "table": {
+        "columns": [
+          "Drug",
+          "Main concern in CKD",
+          "Priority"
+        ],
+        "rowHeaders": true,
+        "rows": [
+          [
+            "Paliperidone",
+            "Substantial renal elimination",
+            "High"
+          ],
+          [
+            "Risperidone",
+            "Active moiety accumulates",
+            "High"
+          ],
+          [
+            "Quetiapine",
+            "Sedation, orthostasis, QT",
+            "Moderate"
+          ],
+          [
+            "Olanzapine",
+            "Metabolic effects, sedation",
+            "Moderate"
+          ],
+          [
+            "Diazepam",
+            "Long half-life, active metabolites",
+            "High: avoid"
+          ],
+          [
+            "Oxazepam / temazepam",
+            "No active metabolites; still cause falls",
+            "Prefer if a benzodiazepine is needed"
+          ],
+          [
+            "Zolpidem / zopiclone",
+            "Falls, confusion",
+            "Short courses only"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "q-insomnia-clues",
+      "type": "slide",
+      "title": "Read the case: key clues",
+      "body": "Anne, 74, has CKD stage 4 ([underline]CrCl 24 mL/min[/underline]) and [underline]severe, short-term insomnia[/underline] after a bereavement. Assessment has not identified depression, sleep apnoea, restless legs or uncontrolled pain/itch. She takes no opioids, drinks no alcohol and has no history of hypnotic dependence. Non-drug sleep strategies have started."
+    },
+    {
+      "id": "q-insomnia",
+      "type": "question",
+      "prompt": "Anne, 74, has CKD stage 4 (CrCl 24 mL/min) and severe, short-term insomnia after a bereavement. Assessment has not identified depression, sleep apnoea, restless legs or uncontrolled pain/itch. She takes no opioids, drinks no alcohol and has no history of hypnotic dependence. Non-drug sleep strategies have started.\n\nAfter discussing risks, she and her GP agree on a brief hypnotic trial. Which prescription is most appropriate?",
+      "options": [
+        {
+          "id": "zopiclone-low",
+          "text": "Zopiclone 3.75 mg at night for up to 7 days, with a review and stop plan"
+        },
+        {
+          "id": "diazepam",
+          "text": "Diazepam 5 mg at night for up to 7 days, with a review and stop plan"
+        },
+        {
+          "id": "temazepam-long",
+          "text": "Temazepam 10 mg at night for 4 weeks before review"
+        },
+        {
+          "id": "zopiclone-full",
+          "text": "Zopiclone 7.5 mg at night for 4 weeks before review"
+        }
+      ],
+      "correctOptionId": "zopiclone-low",
+      "explanation": "**Zopiclone 3.75 mg for a brief trial** is the best of these options. The recommended [underline]starting dose in renal impairment is 3.75 mg[/underline], for short-term treatment (7–14 days). [underline]Review within a week[/underline], use the lowest effective dose and agree when to stop.\n\n- **Diazepam** has a long half-life and active metabolites, increasing concern about prolonged sedation in an older person.\n- **Temazepam** has no active metabolites and can be an alternative when a benzodiazepine is needed. The problem with this option is a four-week supply before review, not a claim that temazepam is always unsuitable in CKD.\n- **Zopiclone 7.5 mg** is above the recommended starting dose for this patient; delaying review for four weeks is also inappropriate.\n\nZopiclone acts at the benzodiazepine receptor and still carries risks of falls, next-day impairment, dependence and rebound insomnia. Complex sleep behaviours are another important adverse effect. Do not combine it with a benzodiazepine, alcohol or other sedatives.\n\n\nContinue non-drug treatment; persistent insomnia warrants reassessment and CBT-I.\n\nReference: [Zopiclone](https://www.safetyandquality.gov.au/medicine-finder/zopiclone-gh)."
+    },
+    {
+      "id": "polypharmacy",
+      "type": "slide",
+      "title": "Stacking risk in dialysis patients",
+      "body": "A typical haemodialysis medication list might include:\n- Escitalopram, quetiapine and ondansetron, **plus**\n- post-dialysis hypokalaemia and hypomagnesaemia\n\nThat adds up to QT stacking, and the risk is cumulative.\n\n- Get a baseline ECG when combining QT-prolonging drugs\n- Minimise anticholinergic burden (falls, delirium, constipation)\n- Review sedatives at every opportunity"
+    },
+    {
+      "id": "tx-mechanism",
+      "type": "slide",
+      "title": "Calcineurin inhibitors: one mechanism, two dangers",
+      "body": "Tacrolimus and ciclosporin are metabolised by **CYP3A4** and transported by **P-glycoprotein**, and both have a narrow therapeutic range.\n\nEither direction is dangerous: too much causes toxicity, too little causes rejection.",
+      "table": {
+        "columns": [
+          "",
+          "Inhibitor added",
+          "Inducer added"
+        ],
+        "rowHeaders": true,
+        "rows": [
+          [
+            "Tacrolimus metabolism",
+            "↓",
+            "↑"
+          ],
+          [
+            "Tacrolimus level",
+            "↑",
+            "↓"
+          ],
+          [
+            "Clinical result",
+            "AKI, tremor, neurotoxicity, hyperkalaemia",
+            "Under-immunosuppression, rejection, graft loss"
+          ],
+          [
+            "When the drug stops",
+            "Level falls: rejection risk",
+            "Level rises: toxicity risk"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "q-tx-cbz-clues",
+      "type": "slide",
+      "title": "Read the case: key clues",
+      "body": "Tom, 45, is 4 years post kidney transplant on tacrolimus, with stable creatinine around 120 µmol/L. A psychiatrist [underline]starts carbamazepine[/underline] for bipolar disorder.\n\n[underline]Three weeks later[/underline] his creatinine is 165 µmol/L."
+    },
+    {
+      "id": "q-tx-cbz",
+      "type": "question",
+      "prompt": "Tom, 45, is 4 years post kidney transplant on tacrolimus, with stable creatinine around 120 µmol/L. A psychiatrist starts carbamazepine for bipolar disorder.\n\nThree weeks later his creatinine is 165 µmol/L.\n\nWhat is the most likely mechanism?",
+      "options": [
+        {
+          "id": "tox",
+          "text": "CYP3A4 inhibition raising tacrolimus, causing nephrotoxicity"
+        },
+        {
+          "id": "direct",
+          "text": "Direct carbamazepine nephrotoxicity"
+        },
+        {
+          "id": "siadh",
+          "text": "Carbamazepine-induced SIADH"
+        },
+        {
+          "id": "induct",
+          "text": "CYP3A4 induction lowering tacrolimus, leading to acute rejection"
+        }
+      ],
+      "correctOptionId": "induct",
+      "explanation": "[underline]**Carbamazepine is a strong enzyme inducer.**[/underline] Induction builds up over 2–3 weeks, [underline]tacrolimus levels fall[/underline], and rejection follows. This needs an urgent tacrolimus trough level and same-day contact with the transplant unit.\n\n- **Inhibition** is the opposite mechanism; carbamazepine induces.\n- Carbamazepine is not significantly **nephrotoxic**.\n- **SIADH** causes hyponatraemia, not a creatinine rise.\n\nPhenytoin, phenobarbital, rifampicin and St John's wort behave similarly. Oxcarbazepine is a weaker inducer but still needs specialist review and monitoring."
+    },
+    {
+      "id": "tx-table",
+      "type": "slide",
+      "title": "Psychotropic–immunosuppressant interactions",
+      "body": "",
+      "table": {
+        "columns": [
+          "Drug",
+          "Interaction",
+          "Practical action"
+        ],
+        "rowHeaders": true,
+        "rows": [
+          [
+            "Fluoxetine",
+            "Possible ↑ CNI",
+            "Check interactions; monitor levels"
+          ],
+          [
+            "Sertraline",
+            "Low potential",
+            "Often reasonable; still review"
+          ],
+          [
+            "Escitalopram",
+            "Limited CYP effect; QT",
+            "ECG, electrolytes, other QT drugs"
+          ],
+          [
+            "Carbamazepine",
+            "Strong induction: ↓↓ CNI",
+            "Avoid where possible: rejection risk"
+          ],
+          [
+            "Oxcarbazepine",
+            "Induction: ↓ CNI",
+            "Specialist review and monitoring"
+          ],
+          [
+            "St John's wort",
+            "Strong induction: ↓↓ CNI",
+            "Avoid"
+          ],
+          [
+            "Quetiapine",
+            "CYP3A4 substrate; QT, sedation",
+            "Monitor, especially with azoles or diltiazem"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "tx-actions",
+      "type": "slide",
+      "title": "What to do in practice",
+      "body": "- **Contact the transplant team** when starting, stopping or changing an interacting psychotropic\n- **Tacrolimus trough and creatinine** at about 5–7 days, then as advised\n- **Remember the reversal:** when the interacting drug stops, levels swing back\n- **Ciclosporin** is itself a CYP3A4 inhibitor and can raise levels of some psychotropics\n- **Never adjust immunosuppression yourself.** Coordinate it"
+    },
+    {
+      "id": "steroid-risk",
+      "type": "slide",
+      "title": "Steroid psychiatric effects are dose-related",
+      "body": "Classic incidence of psychiatric reactions by daily prednisolone-equivalent dose (Boston Collaborative Drug Surveillance Program):",
+      "table": {
+        "columns": [
+          "Daily dose",
+          "Incidence"
+        ],
+        "rows": [
+          [
+            "≤40 mg",
+            "about 1%"
+          ],
+          [
+            "41–80 mg",
+            "about 5%"
+          ],
+          [
+            ">80 mg",
+            "about 18%"
+          ]
+        ],
+        "caption": "Psychiatric reactions to corticosteroids"
+      }
+    },
+    {
+      "id": "q-memantine-clues",
+      "type": "slide",
+      "title": "Read the case: key clues",
+      "body": "George, 80, has Alzheimer disease and CKD stage 4. His estimated [underline]CrCl is 22 mL/min[/underline]. A letter proposes increasing [underline]immediate-release memantine[/underline] from 5 mg twice daily to 10 mg twice daily."
+    },
+    {
+      "id": "q-memantine",
+      "type": "question",
+      "prompt": "George, 80, has Alzheimer disease and CKD stage 4. His estimated CrCl is 22 mL/min. A letter proposes increasing immediate-release memantine from 5 mg twice daily to 10 mg twice daily.\n\nWhat should the GP do?",
+      "options": [
+        {
+          "id": "usual",
+          "text": "Increase as proposed because cognitive medicines do not need renal adjustment"
+        },
+        {
+          "id": "stop",
+          "text": "Stop all cognitive treatment because CKD stage 4 is an absolute contraindication"
+        },
+        {
+          "id": "check",
+          "text": "Query the increase: severe renal impairment requires a lower target dose"
+        },
+        {
+          "id": "double",
+          "text": "Double the dose because renal impairment reduces absorption"
+        }
+      ],
+      "correctOptionId": "check",
+      "explanation": "Memantine exposure increases in renal impairment. For immediate-release tablets, the recommended target dose is [underline]5 mg twice daily at CrCl 5–29 mL/min[/underline]. [underline]Do not routinely increase[/underline] this patient to 10 mg twice daily.\n\nConfirm the recommendation for the prescribed formulation. Monitor dizziness, confusion and falls; new cognitive deterioration also needs assessment for delirium.\n\n\nReference: [Memantine, immediate release](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=30b4d5c4-0a31-c385-e063-6394a90adbce)."
+    },
+    {
+      "id": "q-acamprosate-clues",
+      "type": "slide",
+      "title": "Read the case: key clues",
+      "body": "Leanne, 54, has alcohol dependence and CKD stage 4, with estimated [underline]CrCl 24 mL/min[/underline]. After completing withdrawal treatment she asks about [underline]acamprosate to help maintain abstinence[/underline]."
+    },
+    {
+      "id": "q-acamprosate",
+      "type": "question",
+      "prompt": "Leanne, 54, has alcohol dependence and CKD stage 4, with estimated CrCl 24 mL/min. After completing withdrawal treatment she asks about acamprosate to help maintain abstinence.\n\nWhat is the best next step?",
+      "options": [
+        {
+          "id": "avoid",
+          "text": "Avoid acamprosate at this kidney function and discuss an alternative relapse-prevention plan"
+        },
+        {
+          "id": "full",
+          "text": "Start the usual full dose because acamprosate is not hepatically metabolised"
+        },
+        {
+          "id": "half",
+          "text": "Start half the usual dose without further review"
+        },
+        {
+          "id": "withdrawal",
+          "text": "Use acamprosate to treat acute alcohol withdrawal"
+        }
+      ],
+      "correctOptionId": "avoid",
+      "explanation": "Acamprosate is [underline]renally eliminated[/underline]. It is [underline]contraindicated at CrCl ≤30 mL/min[/underline]. A reduced dose for moderate impairment does not make it suitable at CrCl 24.\n\nDiscuss alternative pharmacological and psychosocial treatment with the addiction service, considering liver function, opioid use and other contraindications. Acamprosate maintains abstinence; it does not treat acute withdrawal.\n\n\nReference: [Acamprosate: renal impairment](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5ebfa8c9-acba-b77e-e063-6294a90ab712)."
+    },
+    {
+      "id": "cases-intro",
+      "type": "slide",
+      "title": "Putting it together: a dialysis case",
+      "body": "Choosing treatment when low mood, poor sleep, appetite loss and itch overlap."
+    },
+    {
+      "id": "q-case-hd-clues",
+      "type": "slide",
+      "title": "Read the case: key clues",
+      "body": "Mohammed, 67, is on [underline]haemodialysis[/underline]. He has low mood, [underline]poor sleep, poor appetite and itch[/underline]."
+    },
+    {
+      "id": "q-case-hd",
+      "type": "question",
+      "prompt": "Mohammed, 67, is on haemodialysis. He has low mood, poor sleep, poor appetite and itch.\n\nWhich is the best initial medication option?",
+      "options": [
+        {
+          "id": "ami",
+          "text": "Amitriptyline 25 mg at night"
+        },
+        {
+          "id": "mirt",
+          "text": "Mirtazapine 7.5 mg at night"
+        },
+        {
+          "id": "diaz",
+          "text": "Diazepam 5 mg at night"
+        },
+        {
+          "id": "desv",
+          "text": "Desvenlafaxine 100 mg daily"
+        }
+      ],
+      "correctOptionId": "mirt",
+      "explanation": "**Low-dose mirtazapine** [underline]helps sleep and appetite[/underline], may ease uraemic pruritus, and is a reasonable antidepressant on dialysis. Its [underline]clearance is reduced[/underline], so start at 7.5 mg and titrate slowly while watching for sedation and falls.\n\n- **Amitriptyline:** anticholinergic, orthostatic and QT effects.\n- **Diazepam:** active metabolites accumulate.\n- **Desvenlafaxine:** at most 50 mg every second day on dialysis.\n\nAlso check dialysis adequacy, phosphate, PTH and iron. Itch has many treatable contributors."
+    },
+    {
+      "id": "checklist",
+      "type": "slide",
+      "title": "GP prescribing checklist",
+      "body": "1. Know the **current eGFR/CrCl** and whether the patient is on dialysis\n2. Is the drug **renally cleared**, does it **accumulate**, or is it **nephrotoxic**?\n3. **Start low, go slow.** Review sedation, falls and cognition\n4. Check **Na, K, Mg** and an **ECG** when combining QT-prolonging drugs\n5. **Lithium:** level, eGFR, Ca and TSH every 3–6 months; give sick-day rules in writing\n6. **Transplant:** check every new, stopped or changed drug, including herbal ones, for CYP3A4 effects. Tell the transplant team\n7. New psychiatric symptoms on steroids or a calcineurin inhibitor: **exclude organic causes first**"
+    },
+    {
+      "id": "take-home",
+      "type": "slide",
+      "title": "Take-home messages",
+      "body": "- **Sertraline** (or low-dose **mirtazapine**) is a sensible start in advanced CKD; expect modest benefit\n- **Lithium:** monitor, write down sick-day rules, and involve nephrology early\n- **Gabapentinoids** cause encephalopathy and myoclonus in CKD: dose to CrCl\n- **Interactions:** carbamazepine and St John's wort can lower tacrolimus levels; fluoxetine may increase levels. Coordinate changes with the transplant team\n- **Confusion, seizures, headache or visual change** on tacrolimus is an emergency"
+    },
+    {
+      "id": "refs",
+      "type": "slide",
+      "title": "Key references",
+      "body": "- [Gheysens T et al. Antidepressant-induced hyponatremia: meta-analysis. European Psychiatry 2024;67:e20](https://doi.org/10.1192/j.eurpsy.2024.11)\n- Hedayati SS et al. Effect of sertraline on depressive symptoms in CKD (CAST). JAMA 2017;318:1876–90\n- Mehrotra R et al. Comparative efficacy of therapies for depression in haemodialysis (ASCEND). Ann Intern Med 2019;170:369–79\n- Nagler EV et al. Antidepressants for depression in stage 3–5 CKD: a systematic review. Nephrol Dial Transplant 2012;27:3736–45\n- Cohen LM et al. Update on psychotropic medication use in renal disease. Psychosomatics 2004;45:34–48\n- Malhi GS et al. RANZCP clinical practice guidelines for mood disorders. Aust N Z J Psychiatry 2021;55:7–117\n- Davis J et al. Lithium and nephrotoxicity: approaches to clinical management. BMC Nephrol 2018;19:305\n- Decker BS et al. Extracorporeal treatment for lithium poisoning (EXTRIP). Clin J Am Soc Nephrol 2015;10:875–87\n- Bechstein WO. Neurotoxicity of calcineurin inhibitors. Transpl Int 2000;13:313–26\n- Boston Collaborative Drug Surveillance Program. Acute adverse reactions to prednisone. Clin Pharmacol Ther 1972;13:694–8\n- Australian Medicines Handbook; TGA product information\n- [BC Transplant: Medication guidelines for solid organ transplants](https://www.transplant.bc.ca/Documents/Statistics/Clinical%20Guidelines%20for%20Transplant%20Medications.pdf)\n- [NIDDK: Drug dosing in adults with CKD](https://www.niddk.nih.gov/research-funding/research-programs/kidney-clinical-research-epidemiology/laboratory/ckd-drug-dosing-providers)"
+    }
+  ]
+}

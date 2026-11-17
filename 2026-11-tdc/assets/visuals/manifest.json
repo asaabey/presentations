@@ -1,0 +1,50 @@
+[
+  {
+    "stem": "clearance-accumulation-injury",
+    "slide": 2,
+    "source": "source/clearance-accumulation-injury.svg",
+    "preview": "preview/clearance-accumulation-injury.png",
+    "alt": "Three panels distinguish renal drug clearance, accumulation in blood and direct kidney tissue injury.",
+    "status": "local review draft"
+  },
+  {
+    "stem": "lithium-nephron",
+    "slide": 9,
+    "source": "source/lithium-nephron.svg",
+    "preview": "preview/lithium-nephron.png",
+    "alt": "Simplified nephron and collecting-duct pathway: lithium enters through ENaC, reduces the ADH response and water reabsorption, and increases urine output. Chronic tubulointerstitial injury is shown separately.",
+    "status": "local review draft"
+  },
+  {
+    "stem": "lithium-interactions",
+    "slide": 12,
+    "source": "source/lithium-interactions.svg",
+    "preview": "preview/lithium-interactions.png",
+    "alt": "Thiazides, ACE inhibitors or ARBs, and NSAIDs may raise lithium concentrations. SGLT2 inhibitors may lower concentrations. Amlodipine usually has minimal effect. Medication changes prompt lithium monitoring.",
+    "status": "local review draft"
+  },
+  {
+    "stem": "gabapentinoid-dosing",
+    "slide": 14,
+    "source": "source/gabapentinoid-dosing.svg",
+    "preview": "preview/gabapentinoid-dosing.png",
+    "alt": "Review draft of separate pregabalin and gabapentin dose-range charts by creatinine clearance, with a separate haemodialysis supplement strip. Values reproduce the existing lesson and await product-specific verification.",
+    "status": "dose verification pending"
+  },
+  {
+    "stem": "qt-stacking",
+    "slide": 17,
+    "source": "source/qt-stacking.svg",
+    "preview": "preview/qt-stacking.png",
+    "alt": "Escitalopram, quetiapine, ondansetron and low potassium or magnesium converge on QT prolongation and potential ventricular arrhythmia, prompting ECG, electrolyte and medication review.",
+    "status": "local review draft"
+  },
+  {
+    "stem": "cni-interactions",
+    "slide": 18,
+    "source": "source/cni-interactions.svg",
+    "preview": "preview/cni-interactions.png",
+    "alt": "CYP3A4 inhibition reduces calcineurin inhibitor metabolism and raises exposure and toxicity risk. Induction increases metabolism and lowers exposure, raising rejection risk. Stopping the interacting drug can reverse the effect.",
+    "status": "local review draft"
+  }
+]
