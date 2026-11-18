@@ -21,11 +21,7 @@ By the end you should be able to:
 A drug can be completely non-nephrotoxic and still cause severe encephalopathy
 as kidney function falls.
 
---- [3] SLIDE: Read the case: key clues  (q-ad-ckd4-clues)
-Margaret, 64, has type 2 diabetes and CKD stage 4 (eGFR 22). She has moderate
-depression and would like to try medication alongside counselling.
-
---- [4] Q1  (q-ad-ckd4) -------------------------------------------------------
+--- [3] Q1  (q-ad-ckd4) -------------------------------------------------------
 Margaret, 64, has type 2 diabetes and CKD stage 4 (eGFR 22). She has moderate
 depression and would like to try medication alongside counselling.
 
@@ -51,7 +47,7 @@ Which is the most reasonable first choice?
     - Amitriptyline brings anticholinergic effects, orthostatic hypotension,
       falls and QT prolongation, all worse in CKD.
 
---- [5] SLIDE: Antidepressants in CKD: the table to keep  (ad-table)
+--- [4] SLIDE: Antidepressants in CKD: the table to keep  (ad-table)
 
     Drug           | Renal considerations                  | GP message
     ---------------+---------------------------------------+--------------------------------------------------------------------
@@ -64,7 +60,7 @@ Which is the most reasonable first choice?
     Mirtazapine    | Clearance falls 30–50%                | Start 7.5 mg; helps sleep and appetite; watch sedation and falls
     TCAs           | Metabolites accumulate                | Avoid for depression: anticholinergic, falls, QT
 
---- [6] SLIDE: A note on duloxetine  (duloxetine-nuance)
+--- [5] SLIDE: A note on duloxetine  (duloxetine-nuance)
 - eGFR <30 mL/min/1.73m²: generally avoid duloxetine because exposure rises in
   severe renal impairment
 - For some formulations, 30 mg daily is recommended in severe renal impairment
@@ -72,13 +68,7 @@ Which is the most reasonable first choice?
 Treat this as a formulation-specific prescribing decision, not a universal ban.
 If you use it, use the lowest dose and monitor closely.
 
---- [7] SLIDE: Read the case: key clues  (q-ssri-na-clues)
-Joan, 79, has CKD stage 3b and persistent depression despite psychological
-treatment. Six months ago, she was admitted with confusion and sodium 121 mmol/L
-shortly after starting escitalopram while taking a thiazide. Both medicines were
-stopped, and her sodium returned to normal. Her current sodium is 138 mmol/L.
-
---- [8] Q2  (q-ssri-na) -------------------------------------------------------
+--- [6] Q2  (q-ssri-na) -------------------------------------------------------
 Joan, 79, has CKD stage 3b and persistent depression despite psychological
 treatment. Six months ago, she was admitted with confusion and sodium 121 mmol/L
 shortly after starting escitalopram while taking a thiazide. Both medicines were
@@ -112,7 +102,7 @@ option given her previous adverse reaction?
     course. New confusion or unsteadiness warrants prompt assessment and a
     sodium check.
 
---- [9] SLIDE: Antidepressants: hyponatraemia risk  (ad-hyponatraemia)
+--- [7] SLIDE: Antidepressants: hyponatraemia risk  (ad-hyponatraemia)
 Pooled event rates, not a ranking: populations, follow-up and sodium thresholds
 varied substantially. These are not CKD-specific or annual risks; wide
 confidence intervals limit comparisons between individual drugs.
@@ -138,7 +128,7 @@ mmol/L or a documented diagnosis; some studies only reported Na <130.
     Mirtazapine         | 1.02% (0.25–4.02%)                               | 8
     Amitriptyline (TCA) | 2.05% (0.01–84.30%)                              | 3
 
---- [10] SLIDE: SSRIs are not free of kidney-related problems  (ssri-harms)
+--- [8] SLIDE: SSRIs are not free of kidney-related problems  (ssri-harms)
 - Hyponatraemia: first weeks; older age, thiazides, low body weight
 - QT prolongation: citalopram and escitalopram are dose-related. In dialysis
   patients, potassium, calcium and magnesium shifts add risk
@@ -146,15 +136,7 @@ mmol/L or a documented diagnosis; some studies only reported Na <130.
   combinations
 - Falls and fractures: on top of CKD–mineral bone disease
 
---- [11] SLIDE: Read the case: key clues  (q-li-decline-clues)
-Peter, 56, has bipolar I disorder and has been well on lithium for 22 years.
-Level 0.7 mmol/L.
-
-- eGFR has fallen from 78 to 46 over 10 years
-- He passes about 4 L of urine a day
-- Urine ACR is normal
-
---- [12] Q3  (q-li-decline) ----------------------------------------------------
+--- [9] Q3  (q-li-decline) ----------------------------------------------------
 Peter, 56, has bipolar I disorder and has been well on lithium for 22 years.
 Level 0.7 mmol/L.
 
@@ -188,7 +170,7 @@ What is the best next step?
     The best window for the decision to continue or switch is early, while eGFR
     is still moderately preserved.
 
---- [13] SLIDE: Lithium and the kidney  (li-kidney)
+--- [10] SLIDE: Lithium and the kidney  (li-kidney)
 - Nephrogenic DI: common (polyuria in up to about 1 in 3). Lithium enters
   collecting-duct cells through ENaC and blunts the response to ADH
 - Chronic tubulointerstitial nephropathy: slow eGFR decline over years to
@@ -197,7 +179,7 @@ What is the best next step?
 - Also: hypercalcaemia (hyperparathyroidism) and hypothyroidism
 - Acute toxicity episodes add to long-term kidney damage
 
---- [14] SLIDE: Monitoring and when to involve nephrology  (li-monitor)
+--- [11] SLIDE: Monitoring and when to involve nephrology  (li-monitor)
 Every 3–6 months: lithium level (12 h post-dose), U&E/eGFR, calcium and TSH.
 Check more often in older people and those with CKD.
 
@@ -209,7 +191,7 @@ Involve nephrology when:
 - Polyuria or nocturia is troublesome, or sodium is abnormal
 - Calcium is raised
 
---- [15] SLIDE: Lithium during acute illness  (li-sick-days)
+--- [12] SLIDE: Lithium during acute illness  (li-sick-days)
 Vomiting, diarrhoea and poor fluid intake can precipitate lithium toxicity and
 AKI, especially with an ACE inhibitor, ARB, diuretic or NSAID.
 
@@ -221,7 +203,7 @@ AKI, especially with an ACE inhibitor, ARB, diuretic or NSAID.
 - Restart lithium with a clinician-agreed plan once hydration and renal function
   are satisfactory; recheck levels as advised
 
---- [16] SLIDE: Drugs that move lithium levels  (li-interactions)
+--- [13] SLIDE: Drugs that move lithium levels  (li-interactions)
 Recheck the lithium level about 5–7 days after starting, stopping or changing
 any of these.
 
@@ -234,12 +216,7 @@ any of these.
     SGLT2 inhibitors      | ↓ (increased excretion) | Monitor for loss of effect
     Amlodipine            | Minimal                 | Reasonable antihypertensive choice
 
---- [17] SLIDE: Read the case: key clues  (q-valproate-free-clues)
-Ravi, 62, takes valproate for bipolar disorder. He has CKD stage 5 and albumin
-25 g/L. He develops new drowsiness and tremor. His total valproate concentration
-is within the laboratory therapeutic range.
-
---- [18] Q4  (q-valproate-free) ------------------------------------------------
+--- [14] Q4  (q-valproate-free) ------------------------------------------------
 Ravi, 62, takes valproate for bipolar disorder. He has CKD stage 5 and albumin
 25 g/L. He develops new drowsiness and tremor. His total valproate concentration
 is within the laboratory therapeutic range.
@@ -268,7 +245,7 @@ Which is the best interpretation?
     lm.nih.gov/dailymed/drugInfo.cfm?setid=4b619f73-44e5-4a99-b425-
     a96cb2228c87).
 
---- [19] SLIDE: Gabapentinoid dosing by kidney function  (gaba-dosing)
+--- [15] SLIDE: Gabapentinoid dosing by kidney function  (gaba-dosing)
 Recommended total daily dose ranges. Always check the dose against CrCl.
 
     CrCl (mL/min) | Pregabalin                        | Gabapentin
@@ -279,12 +256,7 @@ Recommended total daily dose ranges. Always check the dose against CrCl.
     <15           | 25–75 mg                          | 100–300 mg
     Haemodialysis | Plus 25–150 mg after each session | Plus 125–350 mg after each session
 
---- [20] SLIDE: Read the case: key clues  (q-antipsych-clues)
-Daniel, 48, has schizophrenia and CKD stage 4 (CrCl 25 mL/min). At a routine GP
-appointment, you review a letter from his psychiatrist recommending a new oral
-antipsychotic.
-
---- [21] Q5  (q-antipsych) -----------------------------------------------------
+--- [16] Q5  (q-antipsych) -----------------------------------------------------
 Daniel, 48, has schizophrenia and CKD stage 4 (CrCl 25 mL/min). At a routine GP
 appointment, you review a letter from his psychiatrist recommending a new oral
 antipsychotic.
@@ -310,7 +282,7 @@ impairment and prompt you to check the prescribed dose?
     usually need no renal adjustment. Their problems in CKD are sedation,
     orthostasis, metabolic effects and QT prolongation.
 
---- [22] SLIDE: Antipsychotics and sedatives in CKD  (sedatives)
+--- [17] SLIDE: Antipsychotics and sedatives in CKD  (sedatives)
 
     Drug                 | Main concern in CKD                      | Priority
     ---------------------+------------------------------------------+-------------------------------------
@@ -322,13 +294,7 @@ impairment and prompt you to check the prescribed dose?
     Oxazepam / temazepam | No active metabolites; still cause falls | Prefer if a benzodiazepine is needed
     Zolpidem / zopiclone | Falls, confusion                         | Short courses only
 
---- [23] SLIDE: Read the case: key clues  (q-insomnia-clues)
-Anne, 74, has CKD stage 4 (CrCl 24 mL/min) and severe, short-term insomnia after
-a bereavement. Assessment has not identified depression, sleep apnoea, restless
-legs or uncontrolled pain/itch. She takes no opioids, drinks no alcohol and has
-no history of hypnotic dependence. Non-drug sleep strategies have started.
-
---- [24] Q6  (q-insomnia) ------------------------------------------------------
+--- [18] Q6  (q-insomnia) ------------------------------------------------------
 Anne, 74, has CKD stage 4 (CrCl 24 mL/min) and severe, short-term insomnia after
 a bereavement. Assessment has not identified depression, sleep apnoea, restless
 legs or uncontrolled pain/itch. She takes no opioids, drinks no alcohol and has
@@ -370,7 +336,7 @@ prescription is most appropriate?
     Reference: [Zopiclone](https://www.safetyandquality.gov.au/medicine-
     finder/zopiclone-gh).
 
---- [25] SLIDE: Stacking risk in dialysis patients  (polypharmacy)
+--- [19] SLIDE: Stacking risk in dialysis patients  (polypharmacy)
 A typical haemodialysis medication list might include:
 - Escitalopram, quetiapine and ondansetron, plus
 - post-dialysis hypokalaemia and hypomagnesaemia
@@ -381,7 +347,7 @@ That adds up to QT stacking, and the risk is cumulative.
 - Minimise anticholinergic burden (falls, delirium, constipation)
 - Review sedatives at every opportunity
 
---- [26] SLIDE: Calcineurin inhibitors: one mechanism, two dangers  (tx-mechanism)
+--- [20] SLIDE: Calcineurin inhibitors: one mechanism, two dangers  (tx-mechanism)
 Tacrolimus and ciclosporin are metabolised by CYP3A4 and transported by
 P-glycoprotein, and both have a narrow therapeutic range.
 
@@ -395,13 +361,7 @@ rejection.
     Clinical result       | AKI, tremor, neurotoxicity, hyperkalaemia | Under-immunosuppression, rejection, graft loss
     When the drug stops   | Level falls: rejection risk               | Level rises: toxicity risk
 
---- [27] SLIDE: Read the case: key clues  (q-tx-cbz-clues)
-Tom, 45, is 4 years post kidney transplant on tacrolimus, with stable creatinine
-around 120 µmol/L. A psychiatrist starts carbamazepine for bipolar disorder.
-
-Three weeks later his creatinine is 165 µmol/L.
-
---- [28] Q7  (q-tx-cbz) --------------------------------------------------------
+--- [21] Q7  (q-tx-cbz) --------------------------------------------------------
 Tom, 45, is 4 years post kidney transplant on tacrolimus, with stable creatinine
 around 120 µmol/L. A psychiatrist starts carbamazepine for bipolar disorder.
 
@@ -428,7 +388,7 @@ What is the most likely mechanism?
     Oxcarbazepine is a weaker inducer but still needs specialist review and
     monitoring.
 
---- [29] SLIDE: Psychotropic–immunosuppressant interactions  (tx-table)
+--- [22] SLIDE: Psychotropic–immunosuppressant interactions  (tx-table)
 
     Drug           | Interaction                    | Practical action
     ---------------+--------------------------------+---------------------------------------------
@@ -440,7 +400,7 @@ What is the most likely mechanism?
     St John's wort | Strong induction: ↓↓ CNI       | Avoid
     Quetiapine     | CYP3A4 substrate; QT, sedation | Monitor, especially with azoles or diltiazem
 
---- [30] SLIDE: What to do in practice  (tx-actions)
+--- [23] SLIDE: What to do in practice  (tx-actions)
 - Contact the transplant team when starting, stopping or changing an interacting
   psychotropic
 - Tacrolimus trough and creatinine at about 5–7 days, then as advised
@@ -449,7 +409,7 @@ What is the most likely mechanism?
   psychotropics
 - Never adjust immunosuppression yourself. Coordinate it
 
---- [31] SLIDE: Steroid psychiatric effects are dose-related  (steroid-risk)
+--- [24] SLIDE: Steroid psychiatric effects are dose-related  (steroid-risk)
 Classic incidence of psychiatric reactions by daily prednisolone-equivalent dose
 (Boston Collaborative Drug Surveillance Program):
 
@@ -460,12 +420,7 @@ Classic incidence of psychiatric reactions by daily prednisolone-equivalent dose
     41–80 mg   | about 5%
     >80 mg     | about 18%
 
---- [32] SLIDE: Read the case: key clues  (q-memantine-clues)
-George, 80, has Alzheimer disease and CKD stage 4. His estimated CrCl is 22
-mL/min. A letter proposes increasing immediate-release memantine from 5 mg twice
-daily to 10 mg twice daily.
-
---- [33] Q8  (q-memantine) -----------------------------------------------------
+--- [25] Q8  (q-memantine) -----------------------------------------------------
 George, 80, has Alzheimer disease and CKD stage 4. His estimated CrCl is 22
 mL/min. A letter proposes increasing immediate-release memantine from 5 mg twice
 daily to 10 mg twice daily.
@@ -493,12 +448,7 @@ What should the GP do?
     Reference: [Memantine, immediate release](https://dailymed.nlm.nih.gov/daily
     med/drugInfo.cfm?setid=30b4d5c4-0a31-c385-e063-6394a90adbce).
 
---- [34] SLIDE: Read the case: key clues  (q-acamprosate-clues)
-Leanne, 54, has alcohol dependence and CKD stage 4, with estimated CrCl 24
-mL/min. After completing withdrawal treatment she asks about acamprosate to help
-maintain abstinence.
-
---- [35] Q9  (q-acamprosate) ---------------------------------------------------
+--- [26] Q9  (q-acamprosate) ---------------------------------------------------
 Leanne, 54, has alcohol dependence and CKD stage 4, with estimated CrCl 24
 mL/min. After completing withdrawal treatment she asks about acamprosate to help
 maintain abstinence.
@@ -526,14 +476,10 @@ What is the best next step?
     Reference: [Acamprosate: renal impairment](https://dailymed.nlm.nih.gov/dail
     ymed/drugInfo.cfm?setid=5ebfa8c9-acba-b77e-e063-6294a90ab712).
 
---- [36] SLIDE: Putting it together: a dialysis case  (cases-intro)
+--- [27] SLIDE: Putting it together: a dialysis case  (cases-intro)
 Choosing treatment when low mood, poor sleep, appetite loss and itch overlap.
 
---- [37] SLIDE: Read the case: key clues  (q-case-hd-clues)
-Mohammed, 67, is on haemodialysis. He has low mood, poor sleep, poor appetite
-and itch.
-
---- [38] Q10  (q-case-hd) -------------------------------------------------------
+--- [28] Q10  (q-case-hd) -------------------------------------------------------
 Mohammed, 67, is on haemodialysis. He has low mood, poor sleep, poor appetite
 and itch.
 
@@ -557,7 +503,7 @@ Which is the best initial medication option?
     Also check dialysis adequacy, phosphate, PTH and iron. Itch has many
     treatable contributors.
 
---- [39] SLIDE: GP prescribing checklist  (checklist)
+--- [29] SLIDE: GP prescribing checklist  (checklist)
 1. Know the current eGFR/CrCl and whether the patient is on dialysis
 2. Is the drug renally cleared, does it accumulate, or is it nephrotoxic?
 3. Start low, go slow. Review sedation, falls and cognition
@@ -569,7 +515,7 @@ Which is the best initial medication option?
 7. New psychiatric symptoms on steroids or a calcineurin inhibitor: exclude
    organic causes first
 
---- [40] SLIDE: Take-home messages  (take-home)
+--- [30] SLIDE: Take-home messages  (take-home)
 - Sertraline (or low-dose mirtazapine) is a sensible start in advanced CKD;
   expect modest benefit
 - Lithium: monitor, write down sick-day rules, and involve nephrology early
@@ -578,7 +524,7 @@ Which is the best initial medication option?
   fluoxetine may increase levels. Coordinate changes with the transplant team
 - Confusion, seizures, headache or visual change on tacrolimus is an emergency
 
---- [41] SLIDE: Key references  (refs)
+--- [31] SLIDE: Key references  (refs)
 - [Gheysens T et al. Antidepressant-induced hyponatremia: meta-analysis.
   European Psychiatry 2024;67:e20](https://doi.org/10.1192/j.eurpsy.2024.11)
 - Hedayati SS et al. Effect of sertraline on depressive symptoms in CKD (CAST).

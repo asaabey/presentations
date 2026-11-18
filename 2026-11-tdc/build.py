@@ -24,8 +24,7 @@ def slide(id, title, body, table=None):
 ANSWER_POSITIONS = [1, 3, 0, 2, 1, 0, 3, 2, 0, 1, 3, 2, 1, 0, 2, 3]
 
 
-# Fimbria animates slide bodies and revealed explanations, but prompts/options
-# are plain text. A case-reading slide brings out evidence before each vote.
+# Fimbria animates question prompts and revealed explanations directly.
 # Keep to two effects per appearance and preserve the original MCQ wording.
 QUESTION_EMPHASIS = {
     "q-ad-ckd4": (("CKD stage 4 (eGFR 22)", "moderate depression"),
@@ -61,10 +60,7 @@ def underline_phrases(text, phrases):
 
 def question(id, prompt, options, correct, explanation, table=None):
     clues, reasoning = QUESTION_EMPHASIS[id]
-    # Omit the final question paragraph on the reading slide; it follows on
-    # the voting step. Do not expose the answer or explanation before voting.
-    case = prompt.strip("\n").rsplit("\n\n", 1)[0]
-    slide(f"{id}-clues", "Read the case: key clues", underline_phrases(case, clues))
+    prompt = underline_phrases(prompt, clues)
     explanation = underline_phrases(explanation, reasoning)
     options = list(options)
     n = sum(st["type"] == "question" for st in steps)
