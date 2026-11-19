@@ -82,16 +82,6 @@ def question(id, prompt, options, correct, explanation, table=None):
 
 
 # ---------------------------------------------------------------- Opening
-slide("intro", "Psychiatric pharmacotherapy in kidney disease and transplantation", """
-A practical, case-based session for general practice.
-
-By the end you should be able to:
-1. Choose a reasonable first-line antidepressant in CKD stages 3–5, including dialysis
-2. Recognise psychotropics that **accumulate** in renal impairment
-3. Manage lithium safely, including during acute illness
-4. Spot important psychotropic–immunosuppressant interactions
-5. Ask: is this really a psychiatric illness?
-""")
 
 slide("three-issues", "Three different questions for every drug", """
 1. **Clearance:** is it renally cleared? Does the dose need to change?
@@ -137,12 +127,6 @@ slide("ad-table", "Antidepressants in CKD: the table to keep", "", table={
     ],
 })
 
-slide("duloxetine-nuance", "A note on duloxetine", """
-- **eGFR <30 mL/min/1.73m²:** generally avoid duloxetine because exposure rises in severe renal impairment
-- For some formulations, **30 mg daily** is recommended in severe renal impairment
-
-Treat this as a formulation-specific prescribing decision, not a universal ban. If you use it, use the lowest dose and monitor closely.
-""")
 
 question("q-ssri-na", """
 Joan, 79, has CKD stage 3b and persistent depression despite psychological treatment. Six months ago, she was admitted with confusion and sodium 121 mmol/L shortly after starting escitalopram while taking a thiazide. Both medicines were stopped, and her sodium returned to normal. Her current sodium is 138 mmol/L.
@@ -354,17 +338,6 @@ Continue non-drug treatment; persistent insomnia warrants reassessment and CBT-I
 Reference: [Zopiclone](https://www.safetyandquality.gov.au/medicine-finder/zopiclone-gh).
 """)
 
-slide("polypharmacy", "Stacking risk in dialysis patients", """
-A typical haemodialysis medication list might include:
-- Escitalopram, quetiapine and ondansetron, **plus**
-- post-dialysis hypokalaemia and hypomagnesaemia
-
-That adds up to QT stacking, and the risk is cumulative.
-
-- Get a baseline ECG when combining QT-prolonging drugs
-- Minimise anticholinergic burden (falls, delirium, constipation)
-- Review sedatives at every opportunity
-""")
 
 # ---------------------------------------------------------------- 4. Transplant interactions
 slide("tx-mechanism", "Calcineurin inhibitors: one mechanism, two dangers", """
@@ -421,28 +394,10 @@ slide("tx-table", "Psychotropic–immunosuppressant interactions", "", table={
     ],
 })
 
-slide("tx-actions", "What to do in practice", """
-- **Contact the transplant team** when starting, stopping or changing an interacting psychotropic
-- **Tacrolimus trough and creatinine** at about 5–7 days, then as advised
-- **Remember the reversal:** when the interacting drug stops, levels swing back
-- **Ciclosporin** is itself a CYP3A4 inhibitor and can raise levels of some psychotropics
-- **Never adjust immunosuppression yourself.** Coordinate it
-""")
 
 # ---------------------------------------------------------------- 5. Psychiatric presentations caused by kidney medicines
 
 
-slide("steroid-risk", "Steroid psychiatric effects are dose-related", """
-Classic incidence of psychiatric reactions by daily prednisolone-equivalent dose (Boston Collaborative Drug Surveillance Program):
-""", table={
-    "columns": ["Daily dose", "Incidence"],
-    "rows": [
-        ["≤40 mg", "about 1%"],
-        ["41–80 mg", "about 5%"],
-        [">80 mg", "about 18%"],
-    ],
-    "caption": "Psychiatric reactions to corticosteroids",
-})
 
 
 # ---------------------------------------------------------------- 6. Final case and checklist
@@ -482,9 +437,6 @@ Discuss alternative pharmacological and psychosocial treatment with the addictio
 Reference: [Acamprosate: renal impairment](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5ebfa8c9-acba-b77e-e063-6294a90ab712).
 """)
 
-slide("cases-intro", "Putting it together: a dialysis case", """
-Choosing treatment when low mood, poor sleep, appetite loss and itch overlap.
-""")
 
 question("q-case-hd", """
 Mohammed, 67, is on haemodialysis. He has low mood, poor sleep, poor appetite and itch.
@@ -506,23 +458,7 @@ Also check dialysis adequacy, phosphate, PTH and iron. Itch has many treatable c
 """)
 
 
-slide("checklist", "GP prescribing checklist", """
-1. Know the **current eGFR/CrCl** and whether the patient is on dialysis
-2. Is the drug **renally cleared**, does it **accumulate**, or is it **nephrotoxic**?
-3. **Start low, go slow.** Review sedation, falls and cognition
-4. Check **Na, K, Mg** and an **ECG** when combining QT-prolonging drugs
-5. **Lithium:** level, eGFR, Ca and TSH every 3–6 months; give sick-day rules in writing
-6. **Transplant:** check every new, stopped or changed drug, including herbal ones, for CYP3A4 effects. Tell the transplant team
-7. New psychiatric symptoms on steroids or a calcineurin inhibitor: **exclude organic causes first**
-""")
 
-slide("take-home", "Take-home messages", """
-- **Sertraline** (or low-dose **mirtazapine**) is a sensible start in advanced CKD; expect modest benefit
-- **Lithium:** monitor, write down sick-day rules, and involve nephrology early
-- **Gabapentinoids** cause encephalopathy and myoclonus in CKD: dose to CrCl
-- **Interactions:** carbamazepine and St John's wort can lower tacrolimus levels; fluoxetine may increase levels. Coordinate changes with the transplant team
-- **Confusion, seizures, headache or visual change** on tacrolimus is an emergency
-""")
 
 slide("refs", "Key references", """
 - [Gheysens T et al. Antidepressant-induced hyponatremia: meta-analysis. European Psychiatry 2024;67:e20](https://doi.org/10.1192/j.eurpsy.2024.11)

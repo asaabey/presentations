@@ -4,12 +4,6 @@
   "title": "Psychiatric pharmacotherapy in kidney disease and transplantation",
   "steps": [
     {
-      "id": "intro",
-      "type": "slide",
-      "title": "Psychiatric pharmacotherapy in kidney disease and transplantation",
-      "body": "A practical, case-based session for general practice.\n\nBy the end you should be able to:\n1. Choose a reasonable first-line antidepressant in CKD stages 3–5, including dialysis\n2. Recognise psychotropics that **accumulate** in renal impairment\n3. Manage lithium safely, including during acute illness\n4. Spot important psychotropic–immunosuppressant interactions\n5. Ask: is this really a psychiatric illness?"
-    },
-    {
       "id": "three-issues",
       "type": "slide",
       "title": "Three different questions for every drug",
@@ -95,12 +89,6 @@
           ]
         ]
       }
-    },
-    {
-      "id": "duloxetine-nuance",
-      "type": "slide",
-      "title": "A note on duloxetine",
-      "body": "- **eGFR <30 mL/min/1.73m²:** generally avoid duloxetine because exposure rises in severe renal impairment\n- For some formulations, **30 mg daily** is recommended in severe renal impairment\n\nTreat this as a formulation-specific prescribing decision, not a universal ban. If you use it, use the lowest dose and monitor closely."
     },
     {
       "id": "q-ssri-na",
@@ -461,12 +449,6 @@
       "explanation": "**Zopiclone 3.75 mg for a brief trial** is the best of these options. The recommended [underline]starting dose in renal impairment is 3.75 mg[/underline], for short-term treatment (7–14 days). [underline]Review within a week[/underline], use the lowest effective dose and agree when to stop.\n\n- **Diazepam** has a long half-life and active metabolites, increasing concern about prolonged sedation in an older person.\n- **Temazepam** has no active metabolites and can be an alternative when a benzodiazepine is needed. The problem with this option is a four-week supply before review, not a claim that temazepam is always unsuitable in CKD.\n- **Zopiclone 7.5 mg** is above the recommended starting dose for this patient; delaying review for four weeks is also inappropriate.\n\nZopiclone acts at the benzodiazepine receptor and still carries risks of falls, next-day impairment, dependence and rebound insomnia. Complex sleep behaviours are another important adverse effect. Do not combine it with a benzodiazepine, alcohol or other sedatives.\n\n\nContinue non-drug treatment; persistent insomnia warrants reassessment and CBT-I.\n\nReference: [Zopiclone](https://www.safetyandquality.gov.au/medicine-finder/zopiclone-gh)."
     },
     {
-      "id": "polypharmacy",
-      "type": "slide",
-      "title": "Stacking risk in dialysis patients",
-      "body": "A typical haemodialysis medication list might include:\n- Escitalopram, quetiapine and ondansetron, **plus**\n- post-dialysis hypokalaemia and hypomagnesaemia\n\nThat adds up to QT stacking, and the risk is cumulative.\n\n- Get a baseline ECG when combining QT-prolonging drugs\n- Minimise anticholinergic burden (falls, delirium, constipation)\n- Review sedatives at every opportunity"
-    },
-    {
       "id": "tx-mechanism",
       "type": "slide",
       "title": "Calcineurin inhibitors: one mechanism, two dangers",
@@ -579,39 +561,6 @@
       }
     },
     {
-      "id": "tx-actions",
-      "type": "slide",
-      "title": "What to do in practice",
-      "body": "- **Contact the transplant team** when starting, stopping or changing an interacting psychotropic\n- **Tacrolimus trough and creatinine** at about 5–7 days, then as advised\n- **Remember the reversal:** when the interacting drug stops, levels swing back\n- **Ciclosporin** is itself a CYP3A4 inhibitor and can raise levels of some psychotropics\n- **Never adjust immunosuppression yourself.** Coordinate it"
-    },
-    {
-      "id": "steroid-risk",
-      "type": "slide",
-      "title": "Steroid psychiatric effects are dose-related",
-      "body": "Classic incidence of psychiatric reactions by daily prednisolone-equivalent dose (Boston Collaborative Drug Surveillance Program):",
-      "table": {
-        "columns": [
-          "Daily dose",
-          "Incidence"
-        ],
-        "rows": [
-          [
-            "≤40 mg",
-            "about 1%"
-          ],
-          [
-            "41–80 mg",
-            "about 5%"
-          ],
-          [
-            ">80 mg",
-            "about 18%"
-          ]
-        ],
-        "caption": "Psychiatric reactions to corticosteroids"
-      }
-    },
-    {
       "id": "q-memantine",
       "type": "question",
       "prompt": "George, 80, has Alzheimer disease and CKD stage 4. His estimated [underline]CrCl is 22 mL/min[/underline]. A letter proposes increasing [underline]immediate-release memantine[/underline] from 5 mg twice daily to 10 mg twice daily.\n\nWhat should the GP do?",
@@ -662,12 +611,6 @@
       "explanation": "Acamprosate is [underline]renally eliminated[/underline]. It is [underline]contraindicated at CrCl ≤30 mL/min[/underline]. A reduced dose for moderate impairment does not make it suitable at CrCl 24.\n\nDiscuss alternative pharmacological and psychosocial treatment with the addiction service, considering liver function, opioid use and other contraindications. Acamprosate maintains abstinence; it does not treat acute withdrawal.\n\n\nReference: [Acamprosate: renal impairment](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5ebfa8c9-acba-b77e-e063-6294a90ab712)."
     },
     {
-      "id": "cases-intro",
-      "type": "slide",
-      "title": "Putting it together: a dialysis case",
-      "body": "Choosing treatment when low mood, poor sleep, appetite loss and itch overlap."
-    },
-    {
       "id": "q-case-hd",
       "type": "question",
       "prompt": "Mohammed, 67, is on [underline]haemodialysis[/underline]. He has low mood, [underline]poor sleep, poor appetite and itch[/underline].\n\nWhich is the best initial medication option?",
@@ -691,18 +634,6 @@
       ],
       "correctOptionId": "mirt",
       "explanation": "**Low-dose mirtazapine** [underline]helps sleep and appetite[/underline], may ease uraemic pruritus, and is a reasonable antidepressant on dialysis. Its [underline]clearance is reduced[/underline], so start at 7.5 mg and titrate slowly while watching for sedation and falls.\n\n- **Amitriptyline:** anticholinergic, orthostatic and QT effects.\n- **Diazepam:** active metabolites accumulate.\n- **Desvenlafaxine:** at most 50 mg every second day on dialysis.\n\nAlso check dialysis adequacy, phosphate, PTH and iron. Itch has many treatable contributors."
-    },
-    {
-      "id": "checklist",
-      "type": "slide",
-      "title": "GP prescribing checklist",
-      "body": "1. Know the **current eGFR/CrCl** and whether the patient is on dialysis\n2. Is the drug **renally cleared**, does it **accumulate**, or is it **nephrotoxic**?\n3. **Start low, go slow.** Review sedation, falls and cognition\n4. Check **Na, K, Mg** and an **ECG** when combining QT-prolonging drugs\n5. **Lithium:** level, eGFR, Ca and TSH every 3–6 months; give sick-day rules in writing\n6. **Transplant:** check every new, stopped or changed drug, including herbal ones, for CYP3A4 effects. Tell the transplant team\n7. New psychiatric symptoms on steroids or a calcineurin inhibitor: **exclude organic causes first**"
-    },
-    {
-      "id": "take-home",
-      "type": "slide",
-      "title": "Take-home messages",
-      "body": "- **Sertraline** (or low-dose **mirtazapine**) is a sensible start in advanced CKD; expect modest benefit\n- **Lithium:** monitor, write down sick-day rules, and involve nephrology early\n- **Gabapentinoids** cause encephalopathy and myoclonus in CKD: dose to CrCl\n- **Interactions:** carbamazepine and St John's wort can lower tacrolimus levels; fluoxetine may increase levels. Coordinate changes with the transplant team\n- **Confusion, seizures, headache or visual change** on tacrolimus is an emergency"
     },
     {
       "id": "refs",
